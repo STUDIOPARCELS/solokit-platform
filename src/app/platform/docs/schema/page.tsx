@@ -72,7 +72,7 @@ export default function SchemaDocsPage() {
         <div className="max-w-3xl mb-20">
           <h2 className="text-2xl font-bold tracking-tight mb-4">Validation</h2>
           <p className="text-neutral-600 leading-relaxed mb-4">
-            All solokit structured data is validated against Google's Rich Results Test and Schema Markup Validator. The platform ensures schema matches visible content — Google's AI guidance calls this out as a requirement for AI Overview eligibility.
+            All solokit structured data is validated against Google&apos;s Rich Results Test and Schema Markup Validator. The platform ensures schema matches visible content — Google&apos;s AI guidance calls this out as a requirement for AI Overview eligibility.
           </p>
           <p className="text-neutral-600 leading-relaxed">
             Entity metadata fields are required by the CMS — title, description, entity type, summary sentence, images, dates, and category. Template-generic metadata is replaced by entity-specific metadata on every page.

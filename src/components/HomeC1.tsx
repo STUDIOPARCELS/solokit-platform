@@ -387,7 +387,7 @@ function SignupTile() {
       {state === 'success' || state === 'already' ? (
         <div className="c1-success" style={{ display: 'block' }}>
           <span style={{ color: '#7db0d3' }}>{state === 'already' ? "You're already in." : "You're in."}</span>{' '}
-          <span style={{ color: '#008f25', fontWeight: 500 }}>We'll be in touch.</span>
+          <span style={{ color: '#008f25', fontWeight: 500 }}>We&apos;ll be in touch.</span>
         </div>
       ) : (
         <>

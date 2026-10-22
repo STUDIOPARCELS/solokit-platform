@@ -64,7 +64,7 @@ export default function DigitalPhysicalPresencePage() {
         <div className="max-w-3xl">
           <h2 className="text-2xl font-bold tracking-tight mb-4">The bridge between worlds</h2>
           <p className="text-neutral-600 leading-relaxed mb-4">
-            A digital presence means nothing if people can't reach it at the right moment. A solocard puts your autonomous residence in someone's hand — at a meeting, a gallery opening, a conference, a job interview. The interaction is immediate and the destination is always current.
+            A digital presence means nothing if people can&apos;t reach it at the right moment. A solocard puts your autonomous residence in someone&apos;s hand — at a meeting, a gallery opening, a conference, a job interview. The interaction is immediate and the destination is always current.
           </p>
           <p className="text-neutral-600 leading-relaxed">
             This is what makes an autonomous residence different from a website. It has a physical distribution layer. The solocard is not a business card — it is a key that opens your full digital presence.

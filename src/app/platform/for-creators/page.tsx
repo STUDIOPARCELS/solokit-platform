@@ -70,7 +70,7 @@ export default function ForCreatorsPage() {
         <div className="max-w-3xl">
           <h2 className="text-2xl font-bold tracking-tight mb-4">Who uses solokit</h2>
           <p className="text-neutral-600 leading-relaxed mb-4">
-            Engineers, designers, photographers, musicians, writers, developers, freelancers, and solopreneurs. Anyone whose work deserves a persistent, indexable, AI-readable presence — with a card that puts it in people's hands.
+            Engineers, designers, photographers, musicians, writers, developers, freelancers, and solopreneurs. Anyone whose work deserves a persistent, indexable, AI-readable presence — with a card that puts it in people&apos;s hands.
           </p>
           <p className="text-sm text-neutral-400">
             See a live example: <a href="https://kohler.solokit.app" className="text-[#F47920] hover:underline">kohler.solokit.app</a> — Kohler Wood, Mechanical Engineer.
