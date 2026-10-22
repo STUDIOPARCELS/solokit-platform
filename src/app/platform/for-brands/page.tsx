@@ -32,7 +32,7 @@ export default function ForBrandsPage() {
       <PageShell breadcrumb={[{ label: 'For Brands', href: '/for-brands' }]}>
         <h1 className="text-4xl lg:text-5xl font-bold tracking-tight mb-6 max-w-3xl">For brands</h1>
         <p className="text-xl text-neutral-600 leading-relaxed max-w-2xl mb-16">
-          An autonomous corporate residence — your brand's digital headquarters with team profiles, service pages, event hosting, and entity metadata that AI systems can read and recommend.
+          An autonomous corporate residence — your brand&apos;s digital headquarters with team profiles, service pages, event hosting, and entity metadata that AI systems can read and recommend.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-20">
           {SECTIONS.map((s) => (

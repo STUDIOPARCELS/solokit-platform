@@ -26,7 +26,7 @@ export default function ForSolopreneursPage() {
       <PageShell breadcrumb={[{ label: 'For Solopreneurs', href: '/for-solopreneurs' }]}>
         <h1 className="text-4xl lg:text-5xl font-bold tracking-tight mb-6 max-w-3xl">For solopreneurs</h1>
         <p className="text-xl text-neutral-600 leading-relaxed max-w-2xl mb-16">
-          Your solo business at yourname.solokit.app — services, pricing, booking, testimonials, and portfolio. Structured for search engines and AI systems. A solocard in every prospect's hand.
+          Your solo business at yourname.solokit.app — services, pricing, booking, testimonials, and portfolio. Structured for search engines and AI systems. A solocard in every prospect&apos;s hand.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-20">
           {SECTIONS.map((s) => (
